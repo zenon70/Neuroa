@@ -1,0 +1,27 @@
+.modGrid {
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: black !important;
+    min-height: 6vh !important;
+}
+
+.noPadding {
+    padding: 0 !important;
+    margin: 0 !important;
+    background-color: #000000 !important;
+}
+
+.ui.header {
+    margin: 0 !important;
+}
+
+.headerButton {
+    color: white !important;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-right: 0 !important;
+}
+
+.headerContainer {
+    color: #ffffff;
+}

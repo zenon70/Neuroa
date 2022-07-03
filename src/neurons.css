@@ -1,0 +1,35 @@
+.textStyling {
+    text-align: center !important;
+    font-size: 2.5rem !important;
+}
+.buttonColumn {
+    max-width: 70% !important;
+}
+.adobeSeg {
+    border: 0 !important;
+    box-shadow: none !important;
+}
+.imgSeg {
+    border: 0 !important;
+    box-shadow: none !important;
+}
+.definitionSegment {
+    border: 0 !important;
+    box-shadow: none !important;
+}
+.gridParent {
+}
+.gridContainer {
+    border: 0.2rem solid blue !important;
+    background-color: #ccf0ff !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    margin-right: 0!important;
+    padding-right: 0 !important;
+}
+.noPadding {
+    padding: 0 !important;
+    margin: 0 !important;
+    background-color: #FFFFFF!important;
+    position:relative !important;
+}

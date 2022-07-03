@@ -1,0 +1,102 @@
+.bars {
+    height: 10vh !important;
+    width: 100vw !important;
+    border-radius: 10px !important;
+}
+
+.dropdown.icon {
+    float: right !important;
+}
+
+.navDropMenu {
+    border-top: 0.2rem solid aliceblue !important;
+    border-bottom: 0.2rem solid aliceblue !important;
+}
+
+.navBarIcon {
+    float: right !important;
+    margin-left: 1rem !important;
+    margin-right: 0 !important;
+}
+
+.navBarDivider {
+    margin-top: 0.5em !important;
+    margin-bottom: 0.5em !important;
+}
+
+.navText {
+    color: black !important;
+    alignment: left;
+}
+
+.modGrid {
+    margin: 0 !important;
+}
+
+.nav {
+    color: #000000 !important;
+}
+
+.noPadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.topRow {
+    max-height: 10vh;
+}
+
+.nextRow {
+    border-bottom: 0.1rem solid aliceblue !important;
+}
+
+.a {
+    color: #000000 !important;
+}
+
+
+.navText {
+    color: black;
+}
+
+
+.navTextIntro {
+    color: white;
+}
+
+.modGridNav {
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: black !important;
+}
+
+.navWrapper {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+    border: 1rem !important;
+    min-height: 6.5vh !important;
+}
+
+.navRow {
+    border-top: 0.1rem solid aliceblue !important;
+    border-bottom: 0.1rem solid aliceblue !important;
+}
+
+.animate {
+    position: absolute;
+    align-self: center;
+    z-index: 0;
+    border-radius: 40px;
+    transition-duration: 0.4s;
+    background: #05abe4 !important;
+    background: -moz-linear-gradient(40deg, #05ebe4 0%, #8000f1 100%) !important;
+    background: -webkit-linear-gradient(40deg, #05ebe4 0%, #8000f1 100%) !important;
+    background: linear-gradient(40deg, #05ebe4 0%, #8000f1 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#05ebe4', endColorstr='#8000f1', GradientType=1) !important;
+}
+
+.animate:after {
+    content: '.';
+    visibility: hidden;
+}

@@ -1,0 +1,40 @@
+
+.modGrid {
+    margin: 0 !important;
+    padding-top: 0 !important;
+
+}
+.noPadding {
+    padding: 0 !important;
+    margin: 0 !important;
+    background-color: #FFFFFF!important;
+}
+
+.body {
+    padding: 0 !important;
+    border: 0 !important;
+    margin-top: 0 !important;
+    min-height: 96.5vh !important;
+    overflow-y: auto !important;
+    background-color: rgba(210,210,210,0.75) !important;
+    max-width: 100vw !important;
+}
+.introduction{
+    margin-left: 0 !important;
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+    margin-bottom: 0 !important;
+}
+.imgSeg {
+    border: 0 !important;
+    box-shadow: none !important;
+    /* padding-right: 2.5vw !important;
+    padding-left: 1.5vw !important;*/
+}
+.iconContributor {
+    margin-left: 0.25rem !important;
+}
+
+.contributors {
+    text-align: left;
+}

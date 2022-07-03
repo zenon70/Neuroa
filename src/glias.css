@@ -1,0 +1,88 @@
+.imgSeg{
+    background: rgba(210,210,210,0.75) linear-gradient(rgba(255, 255, 255, 0.85), transparent) !important;
+    min-height: 100vh;
+    /*
+    overflow-y: auto !important;
+    */
+    margin: 0 1em 0 0 !important;
+    /*
+    padding: 1em 1em 0em 1em !important;
+    */
+
+}
+.modGrid2 {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: aliceblue linear-gradient(rgba(250, 0, 0, 0.5), transparent) !important;
+}
+.textStyling {
+    text-align: center !important;
+    font-size: 2.5rem !important;
+}
+.buttonColumn {
+    max-width: 70% !important;
+}
+.adobeSeg {
+    border: 0 !important;
+    box-shadow: none !important;
+    min-width: 67.5% !important;
+    min-height: 78.5vh !important;
+    padding: 2vh 0 2vh 0 !important;
+    background-color: #000000 !important;
+}
+.imgSeg {
+    border: 0 !important;
+    box-shadow: none !important;
+}
+.firstCol{
+    margin-right: -0.5rem !important;
+}
+.definitionSegment {
+    border: 0 !important;
+    box-shadow: none !important;
+    margin-top: 0 !important;
+    margin-left: 0 !important;
+}
+.category {
+    box-shadow: 0 0 0 0.2rem rgba(27,77,228,1.0) !important;
+    border-radius: 0.4rem !important;
+    border: 0 solid rgba(27,77,228,1.0) !important;
+}
+.gridParent {
+    margin-left: -0.5rem !important;
+    margin-right: -1rem !important;
+    padding-right: -1rem !important;
+    padding-left: -2rem !important;
+}
+
+.gridContainer {
+    border: 0.2rem solid blue !important;
+    background-color: #ccf0ff !important;
+    margin: 0 !important;
+    padding-right: 0 !important;
+}
+.dropdownContainer {
+    background-color: rgba(27,77,228,1.0) !important;
+    margin: 0 !important;
+    padding-right: 0 !important;
+}
+.ui.dropdown {
+    text-align: center !important;
+}
+.ui.dropdown>.dropdown.icon {
+    color: #ffffff !important;
+    margin-top: 0.25rem !important;
+    margin-left: 0 !important;
+}
+.noPadding {
+    padding: 0 !important;
+    margin: 0 !important;
+    background-color: #FFFFFF!important;
+    position:relative !important;
+}
+.item {
+    width:inherit !important;
+}
+.menu {
+    width:inherit !important;
+}

@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  width: 100vw !important;
+  background: rgba(210,210,210,0.75) linear-gradient(rgba(255, 255, 255, 0.85), transparent) !important;
+  height: 100vh !important;
+  min-height: 70vh !important;
+}
+.AppMobile {
+  text-align: center;
+  width: 100vw !important;
+  background: rgba(210,210,210,0.75) linear-gradient(rgba(255, 255, 255, 0.85), transparent) !important;
+  min-height: 30vh !important;
+}
+
+

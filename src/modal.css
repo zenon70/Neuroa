@@ -1,0 +1,14 @@
+.myModalHeader {
+    text-align: center !important;
+}
+.myModalActions {
+    text-align: center !important;
+}
+
+.myCardHeader {
+    background-color: white !important;
+}
+
+.formButton {
+    display: block !important;
+}
